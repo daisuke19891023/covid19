@@ -20,7 +20,7 @@ export default {
         {
           title: '新しい生活様式を推進する小規模事業者・宿泊事業者を支援します',
           link:
-            'https://www.pref.yamanashi.jp/eisei-ykm/20200212ryokan_corona.html',
+            'https://www.pref.yamanashi.jp/kankou-sk/gz-sien.html?fbclid=IwAR3srocVYJbE9kwXrKbyNxWuu3Qr595EyHZtmhv3Ou-O4q52gNK4OVd8VMA',
           body:
             '小規模事業者や宿泊事業者等の機器整備（備品・消耗品購入）等の支援内容です。1施設あたり最大300万円（支援率4分の3）が支援されます。'
         },
